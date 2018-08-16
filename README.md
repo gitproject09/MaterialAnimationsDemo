@@ -1,7 +1,10 @@
 # MaterialAnimationsDemo
+========================
 
 --> Animate activity layout content when transitioning from one activity to another.
+
 --> Animate shared elements (Hero views) in transitions between activities.
+
 --> Animate view changes within same activity.
 
 
@@ -16,5 +19,12 @@ Transition Framework will take all visible views in current scene and calculate 
 
 # Layout changes
 
-Transition Framework can also be used to animate layout property changes in a view. You just need to make whatever changes you want and it will perform necessary animations for you
+Transition Framework can also be used to animate layout property changes in a view.
 
+You just need to make whatever changes you want and it will perform necessary animations for you
+
+# Requirements 
+
+ - Android API level 16 or greater
+ 
+ - You should be able to setup the project in Android Studio 3.0.0+.
